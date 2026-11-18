@@ -1,0 +1,4 @@
+Model,ROC-AUC,F1 Score
+Logistic Regression,0.8486,0.6131
+Random Forest,0.84,0.6338
+XGBoost,0.8494,0.6275
